@@ -1,0 +1,11 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "graph": "./langchain-documentation-chatbot/app/graph/graph.py:graph"
+  },
+  "env": "./langchain-documentation-chatbot/.env",
+  "python_version": "3.11",
+  "dependencies": [
+    "./langchain-documentation-chatbot"
+  ]
+}

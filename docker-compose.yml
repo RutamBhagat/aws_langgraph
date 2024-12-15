@@ -30,7 +30,7 @@ services:
         env_file:
             - langchain-documentation-chatbot/.env
         ports:
-            - "8123:8000"
+            - "8000:8000"
         depends_on:
             langgraph-redis:
                 condition: service_healthy

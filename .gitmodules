@@ -1,3 +1,3 @@
 [submodule "langchain-documentation-chatbot"]
 	path = langchain-documentation-chatbot
-	url = git@github.com:RutamBhagat/Code-Wizard-LangGraph-C_RAG.git
+	url = https://github.com/RutamBhagat/Code-Wizard-LangGraph-C_RAG.git
